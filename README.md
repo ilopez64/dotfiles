@@ -14,6 +14,7 @@ These are my dotfiles! I push changes from my X220 running Arch. These files are
 + mpv
 + neofetch
 + And many little scripts I use filed in the `~/.scripts/` directory
++ i3lock-color
 
 ## More documentation
 
