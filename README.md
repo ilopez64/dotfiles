@@ -1,6 +1,6 @@
 # Irving's GNU/Linux Dotfiles
 
-These are my dotfiles! I push changes from my X200 running Parabola or my X220 running Arch. These files are distro-independent
+These are my dotfiles! I push changes from my X220 running Arch. These files are distro-independent
 
 ## Programs whose configs can be found here
 
