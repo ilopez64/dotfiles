@@ -1,0 +1,3 @@
+#lockscreen 
+mod4 + Escape
+ GLITCHICON=~/Repos/glitchlock/stop.png ~/Repos/glitchlock/glitchlock
