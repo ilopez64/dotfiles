@@ -39,7 +39,7 @@ dim_value=60%
 # Use Lock layer or not
 # value: Boolean
 use_lock=true
-lock="$HOME/.config/i3/lock.png"
+lock="$HOME/projects/tungcena-i3lock/lock.png"
 #
 # Set Lock layer location in screen
 # value: Percent or Number in pixel
